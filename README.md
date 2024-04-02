@@ -12,7 +12,7 @@
 const Pixel_War = {
   programming language: [C, C++, Java, Python, HTML/CSS, JavaScript],
   frameworks & packages: [React, Vue3, Spring, NumPy, Pandas, Scikit-learn, PyTorch],
-  tools: [Git, Linux/Unix, Nginx, Docker],
+  tools: [SQL, Git, Linux/Unix, Nginx, Docker],
   specialty: [Embedded Software Development, Full-Stack Software Development, Machine Learning, Deep Learning]
   take_away: "Stay hungry"
 }
