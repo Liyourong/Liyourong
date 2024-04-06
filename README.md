@@ -9,7 +9,7 @@
 ### A little more about me and the tech stacks...  
 
 ```javascript
-const Pixel_War = {
+const Will = {
   programming language: [C, C++, Java, Python, HTML/CSS, JavaScript],
   frameworks & packages: [React, Vue3, Spring, NumPy, Pandas, Scikit-learn, PyTorch],
   tools: [SQL, Git, Linux/Unix, Nginx, Docker],
