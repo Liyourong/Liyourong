@@ -10,7 +10,7 @@
 
 ```javascript
 const Will = {
-  programming language: [C, C++, Java, Python, HTML/CSS, JavaScript],
+  programming languages: [C, C++, Java, Python, HTML/CSS, JavaScript],
   frameworks & packages: [React, Vue3, Spring, NumPy, Pandas, Scikit-learn, PyTorch],
   tools: [SQL, Git, Linux/Unix, Nginx, Docker],
   specialty: [Embedded Software Development, Full-Stack Software Development, Machine Learning, Deep Learning]
